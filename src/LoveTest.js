@@ -27,8 +27,8 @@ import m3 from './img/m3.jpg';
 
 const random = require('random');
 
-let app_id = 7561605,
-    group_id = 197766832,
+let app_id = 7561608,
+    group_id = 197766831,
     prefix = '_____';
 
 class LoveTest extends React.Component {
