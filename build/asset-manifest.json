@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/vkstickers/static/css/main.ffd87221.chunk.css",
-    "main.js": "/vkstickers/static/js/main.a4fde0a4.chunk.js",
-    "main.js.map": "/vkstickers/static/js/main.a4fde0a4.chunk.js.map",
-    "runtime-main.js": "/vkstickers/static/js/runtime-main.dc5761cc.js",
-    "runtime-main.js.map": "/vkstickers/static/js/runtime-main.dc5761cc.js.map",
-    "static/css/2.4fc5a6bc.chunk.css": "/vkstickers/static/css/2.4fc5a6bc.chunk.css",
-    "static/js/2.e8bb1dca.chunk.js": "/vkstickers/static/js/2.e8bb1dca.chunk.js",
-    "static/js/2.e8bb1dca.chunk.js.map": "/vkstickers/static/js/2.e8bb1dca.chunk.js.map",
-    "index.html": "/vkstickers/index.html",
-    "precache-manifest.fd183f3ae43fdea0485e6d88dc4607b6.js": "/vkstickers/precache-manifest.fd183f3ae43fdea0485e6d88dc4607b6.js",
-    "service-worker.js": "/vkstickers/service-worker.js",
-    "static/css/2.4fc5a6bc.chunk.css.map": "/vkstickers/static/css/2.4fc5a6bc.chunk.css.map",
-    "static/css/main.ffd87221.chunk.css.map": "/vkstickers/static/css/main.ffd87221.chunk.css.map"
+    "main.css": "/testminiapp/static/css/main.82128725.chunk.css",
+    "main.js": "/testminiapp/static/js/main.a3519716.chunk.js",
+    "main.js.map": "/testminiapp/static/js/main.a3519716.chunk.js.map",
+    "runtime-main.js": "/testminiapp/static/js/runtime-main.a6f6e525.js",
+    "runtime-main.js.map": "/testminiapp/static/js/runtime-main.a6f6e525.js.map",
+    "static/css/2.abebce0a.chunk.css": "/testminiapp/static/css/2.abebce0a.chunk.css",
+    "static/js/2.42d87de4.chunk.js": "/testminiapp/static/js/2.42d87de4.chunk.js",
+    "static/js/2.42d87de4.chunk.js.map": "/testminiapp/static/js/2.42d87de4.chunk.js.map",
+    "index.html": "/testminiapp/index.html",
+    "precache-manifest.ec89fee11e2a8c88de3d5f3b266c8dcb.js": "/testminiapp/precache-manifest.ec89fee11e2a8c88de3d5f3b266c8dcb.js",
+    "service-worker.js": "/testminiapp/service-worker.js",
+    "static/css/2.abebce0a.chunk.css.map": "/testminiapp/static/css/2.abebce0a.chunk.css.map",
+    "static/css/main.82128725.chunk.css.map": "/testminiapp/static/css/main.82128725.chunk.css.map"
   }
 }
