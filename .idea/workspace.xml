@@ -2,20 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38035a35-933b-4560-ab0d-1376196c823d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/precache-manifest.ec89fee11e2a8c88de3d5f3b266c8dcb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/precache-manifest.42eac84704e1b09479149b70f110c034.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/2.abebce0a.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/2.abebce0a.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.82128725.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.82128725.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.42d87de4.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.42d87de4.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.a3519716.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.a3519716.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.a6f6e525.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.a6f6e525.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.433567bd.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.433567bd.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.f813e547.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.f813e547.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.f2bc9aeb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.f2bc9aeb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,26 +27,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LoveTest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+            <state relative-caret-position="590">
+              <caret line="57" selection-start-line="57" selection-end-line="58" selection-end-column="36" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
                 <element signature="n#!!block;n#constructor#0;n#LoveTest#0" />
-                <element signature="n#!!block;n#componentDidMount#0;n#LoveTest#0" />
                 <element signature="n#!!block;n#updateStorage#0;n#LoveTest#0" />
-                <element signature="e#3003#3529#0" />
                 <element signature="n#!!block;n#go#0;n#LoveTest#0" />
                 <element signature="n#!!block;n#randomPhrase#0;n#LoveTest#0" />
                 <element signature="n#!!block;n#sleep#0;n#LoveTest#0" />
                 <element signature="n#!!block;n#viewportToPixels#0;n#LoveTest#0" />
-                <element signature="e#14181#15639#0" />
-                <element signature="e#15656#16649#0" />
-                <element signature="e#16666#17696#0" />
-                <element signature="e#17714#20466#0" />
-                <element signature="e#19191#20152#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,7 +66,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
@@ -156,10 +160,10 @@
         <option value="$PROJECT_DIR$/node_modules/@vkontakte/vkui/dist/es6/components/Placeholder/Placeholder.js" />
         <option value="$PROJECT_DIR$/node_modules/@vkontakte/vkui/dist/components/Placeholder/Placeholder.js" />
         <option value="$PROJECT_DIR$/node_modules/@vkontakte/vkui/src/components/Placeholder/Placeholder.tsx" />
-        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/css/LoveTest.css" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/LoveTest.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -176,7 +180,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,6 +203,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -322,12 +326,13 @@
       <workItem from="1596713338641" duration="14383000" />
       <workItem from="1596832356278" duration="6294000" />
       <workItem from="1596869131957" duration="7158000" />
-      <workItem from="1596879547490" duration="3089000" />
+      <workItem from="1596879547490" duration="3789000" />
+      <workItem from="1596984655284" duration="451000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="266039000" />
+    <option name="totallyTimeSpent" value="267190000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -342,7 +347,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19296375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -386,20 +391,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js" />
+    <entry file="file://$PROJECT_DIR$/src/css/App.css" />
     <entry file="file://$PROJECT_DIR$/node_modules/@vkontakte/icons/dist/28/add_circle_outline.d.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -425,91 +418,22 @@
     <entry file="file://$PROJECT_DIR$/src/components/Icon.js" />
     <entry file="file://$PROJECT_DIR$/src/icons/Icon28Clock.svg" />
     <entry file="file://$PROJECT_DIR$/src/icons/Icon28Truck.svg" />
-    <entry file="file://$PROJECT_DIR$/src/icons/MainPlaceholderButton.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/icons/MainPlaceholderIcon.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/icons/MainPlaceholderButtonLoading.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/icons/Icon28Truck.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" selection-end-line="25" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/icons/Icon16Chevron.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/icons/MainPlaceholderButton.svg" />
+    <entry file="file://$PROJECT_DIR$/src/icons/MainPlaceholderIcon.svg" />
+    <entry file="file://$PROJECT_DIR$/src/icons/MainPlaceholderButtonLoading.svg" />
+    <entry file="file://$PROJECT_DIR$/src/icons/Icon28Truck.js" />
+    <entry file="file://$PROJECT_DIR$/src/icons/Icon16Chevron.svg" />
     <entry file="file://$PROJECT_DIR$/src/css/CardList.css" />
     <entry file="file://$PROJECT_DIR$/src/components/CardList.js" />
-    <entry file="file://$PROJECT_DIR$/src/icons/Icon28Clock.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" selection-start-line="15" selection-end-line="18" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Placeholder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="40" column="40" selection-end-line="72" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/Placeholder.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2227">
-          <caret line="131" column="14" selection-start-line="131" selection-start-column="14" selection-end-line="131" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/Icon.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/ViewTabs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/icons/Icon34Airplane.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/icons/Icon34Box.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/Card.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/TrackHistory.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/icons/Icon28Clock.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Placeholder.js" />
+    <entry file="file://$PROJECT_DIR$/src/css/Placeholder.css" />
+    <entry file="file://$PROJECT_DIR$/src/css/Icon.css" />
+    <entry file="file://$PROJECT_DIR$/src/components/ViewTabs.js" />
+    <entry file="file://$PROJECT_DIR$/src/icons/Icon34Airplane.svg" />
+    <entry file="file://$PROJECT_DIR$/src/icons/Icon34Box.svg" />
+    <entry file="file://$PROJECT_DIR$/src/css/Card.css" />
+    <entry file="file://$PROJECT_DIR$/src/css/TrackHistory.css" />
     <entry file="file://$PROJECT_DIR$/node_modules/@vkontakte/vkui/src/components/PanelHeader/Readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -532,13 +456,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Card.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="35" lean-forward="true" selection-start-line="1" selection-start-column="35" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Card.js" />
     <entry file="file://$PROJECT_DIR$/node_modules/@vkontakte/vkui/src/components/PanelHeader/PanelHeader.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="538">
@@ -604,23 +522,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/TrackHistory.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="35" column="32" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tracker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-532">
-          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/TrackHistory.js" />
+    <entry file="file://$PROJECT_DIR$/src/Tracker.js" />
     <entry file="file://$PROJECT_DIR$/src/animations/heart.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -638,13 +541,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/img/black-heart.png" />
-    <entry file="file://$PROJECT_DIR$/src/css/Tracker.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/Tracker.css" />
     <entry file="file://$PROJECT_DIR$/node_modules/@vkontakte/vkui/dist/es6/components/Placeholder/Placeholder.d.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -677,8 +574,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LoveTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="57" selection-start-line="57" selection-end-line="58" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="n#!!block;n#constructor#0;n#LoveTest#0" />
+            <element signature="n#!!block;n#updateStorage#0;n#LoveTest#0" />
+            <element signature="n#!!block;n#go#0;n#LoveTest#0" />
+            <element signature="n#!!block;n#randomPhrase#0;n#LoveTest#0" />
+            <element signature="n#!!block;n#sleep#0;n#LoveTest#0" />
+            <element signature="n#!!block;n#viewportToPixels#0;n#LoveTest#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -693,29 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LoveTest.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-            <element signature="n#!!block;n#constructor#0;n#LoveTest#0" />
-            <element signature="n#!!block;n#componentDidMount#0;n#LoveTest#0" />
-            <element signature="n#!!block;n#updateStorage#0;n#LoveTest#0" />
-            <element signature="e#3003#3529#0" />
-            <element signature="n#!!block;n#go#0;n#LoveTest#0" />
-            <element signature="n#!!block;n#randomPhrase#0;n#LoveTest#0" />
-            <element signature="n#!!block;n#sleep#0;n#LoveTest#0" />
-            <element signature="n#!!block;n#viewportToPixels#0;n#LoveTest#0" />
-            <element signature="e#14181#15639#0" />
-            <element signature="e#15656#16649#0" />
-            <element signature="e#16666#17696#0" />
-            <element signature="e#17714#20466#0" />
-            <element signature="e#19191#20152#0" />
-          </folding>
         </state>
       </provider>
     </entry>
