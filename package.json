@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://catalinnon3.github.io/lovetest1/",
+  "homepage": "https://catalinnon3.github.io/lovetest2/",
   "scripts": {
     "start": "cross-env PORT=10888 react-scripts start",
     "build": "react-scripts build",
