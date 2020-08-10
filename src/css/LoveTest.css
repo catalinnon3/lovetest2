@@ -7,12 +7,11 @@
     background: #ffffff00;
 }
 
-#panel5 .Panel__in .Placeholder--stretched .Placeholder__in .Placeholder__text {
+.gradient {
     padding: 12px;
-    color: #fec0c1;
-    background: linear-gradient(90deg, rgba(254,192,193,0.18) 0%, rgba(255,85,87,0.18) 100%);
+    color: white;
+    background: linear-gradient(90deg, rgba(254,192,193,0.12) 0%, rgba(255,85,87,0.12) 100%);
 }
-
 
 .Placeholder__text {
     font-size: 17px;
